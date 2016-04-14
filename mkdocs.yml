@@ -1,0 +1,6 @@
+site_name: Bad Example Domain
+site_favicon: favicon.ico
+repo_url: 'https://github.com/sinkcup/bad-example'
+repo_name: 'github'
+theme: 'material'
+google_analytics: ['UA-17660684-10', 'badexample.io']
