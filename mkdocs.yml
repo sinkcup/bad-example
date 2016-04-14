@@ -3,4 +3,9 @@ site_favicon: favicon.ico
 repo_name: 'GitHub'
 repo_url: 'https://github.com/sinkcup/bad-example'
 theme: 'material'
+
+extra:
+  author:
+    github: 'sinkcup'
+
 google_analytics: ['UA-17660684-10', 'badexample.io']
