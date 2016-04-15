@@ -4,4 +4,5 @@ MAINTAINER sinkcup <sinkcup@163.com>
 RUN pip install mkdocs-material
 
 ADD . /usr/share/nginx/portal
-RUN mkdocs build
+RUN mkdocs build && \
+  grep -lr 'href="//fonts.googleapis.com/' site | xargs sed -i '/href="\/\/fonts\.googleapis\.com/d'
