@@ -9,3 +9,4 @@ extra:
     github: 'sinkcup'
 
 google_analytics: ['UA-17660684-10', 'badexample.io']
+site_url: 'https://badexample.io/'
