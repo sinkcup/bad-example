@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Bad Example Domain\n\n\nThis domain is established to be used for illustrative bad examples in documents. You may use this domain in examples without prior coordination or asking for permission.", 
+            "title": "Bad Example Domain"
+        }, 
+        {
+            "location": "/#bad-example-domain", 
+            "text": "This domain is established to be used for illustrative bad examples in documents. You may use this domain in examples without prior coordination or asking for permission.", 
+            "title": "Bad Example Domain"
+        }
+    ]
+}
